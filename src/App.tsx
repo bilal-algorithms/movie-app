@@ -118,6 +118,7 @@ const App = () => {
 
         <div className="wrapper">
           <header>
+            <img src="/logo.png" alt="logo" className="w-24 mx-auto block" />
             <img src="/hero.png" alt="hero-banner" />
             <h1>
               Find <span className="text-gradient">Movies</span> You'll Enjoy
